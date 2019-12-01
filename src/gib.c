@@ -1,5 +1,7 @@
-#include "thea.h"
+/*
+ * Test file
+ */
 
-int main() {
-    
-}
+#include "gib.h"
+
+int main() {}

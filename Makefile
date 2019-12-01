@@ -1,6 +1,6 @@
 .PHONY: default
 default:
-	gcc -O3 -lm -lGL -lGLU -lglut -o out/gib gib/*.c
+	gcc -O3 -lm -lGL -lGLU -lglut -o out/gib src/*.c
 
 .PHONY: clean
 clean:
